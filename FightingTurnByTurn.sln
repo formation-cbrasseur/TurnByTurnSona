@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingTurnByTurn", "FightingTurnByTurn\FightingTurnByTurn.csproj", "{57B5F762-E1A2-4275-B29D-D5CD3F8DA6CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingTurnByTurnTests", "FightingTurnByTurnTests\FightingTurnByTurnTests.csproj", "{9A5E33B6-DB65-44CB-8B55-EE277297FD47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B5F762-E1A2-4275-B29D-D5CD3F8DA6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B5F762-E1A2-4275-B29D-D5CD3F8DA6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B5F762-E1A2-4275-B29D-D5CD3F8DA6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B5F762-E1A2-4275-B29D-D5CD3F8DA6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5E33B6-DB65-44CB-8B55-EE277297FD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5E33B6-DB65-44CB-8B55-EE277297FD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5E33B6-DB65-44CB-8B55-EE277297FD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5E33B6-DB65-44CB-8B55-EE277297FD47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B49F2F2C-D15D-48DA-8C80-941B17BC83B1}
+	EndGlobalSection
+EndGlobal
